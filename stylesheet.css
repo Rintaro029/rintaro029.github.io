@@ -31,9 +31,9 @@ li {
   padding: 40px;
 }
 
-img {
+.img {
   height: 30px;
-  weight: 45px;
+  width: 45px;
 }
 
 hr {
