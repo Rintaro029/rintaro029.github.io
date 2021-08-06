@@ -31,6 +31,11 @@ li {
   padding: 40px;
 }
 
+.img {
+  height: 90px;
+  weight: 120px;
+}
+
 hr {
   height: 4px;
   background: url(line02.png) repeat-x 0 0;
