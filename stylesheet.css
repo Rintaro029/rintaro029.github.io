@@ -4,6 +4,9 @@ body {
 
 li {
   list-style: none;
+}
+
+li:hover {
   opacity: 0.5;
 }
 
