@@ -32,6 +32,11 @@ li {
 }
 
 
+.img {
+  width: 100%;
+  height: auto;
+}
+
 hr {
   height: 4px;
   background: url(line02.png) repeat-x 0 0;
