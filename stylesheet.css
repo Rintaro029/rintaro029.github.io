@@ -30,3 +30,8 @@ li {
   height: 120px;
   padding: 40px;
 }
+
+hr {
+  height: 4px;
+  background: url(line02.png) repeat-x 0 0;
+}
